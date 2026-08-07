@@ -5,7 +5,7 @@ Este projeto consiste em um portfólio web desenvolvido para centralizar minha a
 </p>
 
 <p align="center">
-  <img height="400px" src="./assets/github-img/Developer-portfolio.png"><br>
+  <img height="400px" src="./assets/github-img/Portfolio-Developer.png"><br>
 </p>
 
 
