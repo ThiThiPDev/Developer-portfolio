@@ -156,6 +156,7 @@ body {
 
     .apresentacao__conteudo__paragrafo {
         text-align: justify;
+        font-size: 0.9rem;
         letter-spacing: -1.1px;
         word-spacing: -0.8px;
         hyphens: auto;
